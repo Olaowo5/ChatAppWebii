@@ -15,7 +15,7 @@ if(!isset($_SESSION['UserID']))
         <meta http-equiv ="X-UA-Compatible" content ="ie-edge">
         <title> RealTime Chat App | OlaOwo</title>
         <link rel="stylesheet" href="style.css">
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css/">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css">
         <script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous' defer></script>
         <script src="JavaScript/chat.js" defer></script>
     </head>
